@@ -1,10 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="banner.gif" width="100%" alt="Banner Ana">
+</p> 
 
-<img src="banner.gif" width="100%" alt="Tech Pink Banner"> 
 
-# 🌸 ¡Hola! Soy Ana Núñez 🌸
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZreXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/m8f06rK8nFv8ZXmFf0/giphy.gif" width="40px"> 
 
 ### ✨ Android & Java Developer | Tech Enthusiast ✨
 
