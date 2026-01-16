@@ -45,11 +45,9 @@ Aunque estoy en pleno desarrollo de mi carrera y no me considero una experta, te
 
 ## 📊 Estadísticas (Pink Mode)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananuflo&theme=rose-pine&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananuflo&layout=compact&theme=rose_pine&hide_border=true" alt="Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananuflo&show_icons=true&theme=rose_pine&hide_border=true" alt="Estadísticas de Ana" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananuflo&layout=compact&theme=rose_pine&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
