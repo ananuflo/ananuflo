@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" width="100%" alt="Tech Pink Banner">
+<img src="banner.gif" width="100%" alt="Tech Pink Banner"> 
 
 # 🌸 ¡Hola! Soy Ana Núñez 🌸
 
