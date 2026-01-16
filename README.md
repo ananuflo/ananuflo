@@ -43,11 +43,12 @@ Aunque estoy en pleno desarrollo de mi carrera y no me considero una experta, te
 
 ---
 
-## 📊 Estadísticas (Pink Mode)
+## 🏆 Mis Logros en GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananuflo&show_icons=true&theme=rose_pine&hide_border=true" alt="Estadísticas de Ana" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananuflo&layout=compact&theme=rose_pine&hide_border=true" alt="Lenguajes más usados" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ananuflo&theme=rose-pine&no-bg=true&margin-w=15" alt="ananuflo trophies" />
+  </a>
 </p>
 
 ---
