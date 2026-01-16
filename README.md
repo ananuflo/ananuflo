@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ananuflo/ananuflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="banner.gif" width="100%" alt="Tech Pink Banner">
 
-Here are some ideas to get you started:
+# 🌸 ¡Hola! Soy Ana Núñez 🌸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZreXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/m8f06rK8nFv8ZXmFf0/giphy.gif" width="40px"> 
+
+### ✨ Android & Java Developer | Tech Enthusiast ✨
+
+---
+
+</div>
+
+## ✨ Sobre mí
+
+¡Hola! Soy una persona **trabajadora y entusiasta** que disfruta enormemente del **trabajo en equipo**. Me encuentro en una etapa de crecimiento constante, con el objetivo de **aprender lo máximo posible** y absorber nuevos conocimientos cada día.
+
+Aunque estoy en pleno desarrollo de mi carrera y no me considero una experta, tengo muchísima ilusión por **volcar mi creatividad y mis conocimientos** en el ámbito de la informática. Me apasiona ver cómo las ideas cobran vida a través del código, especialmente en el ecosistema **Android** y **Java**. Busco oportunidades donde pueda aportar mi energía, colaborar con otros y seguir formándome como profesional en un entorno tecnológico.
+
+* 🔭 **Actualmente:** Enfocada en mis proyectos académicos y perfeccionando mi lógica en Java.
+* 🌱 **Mi objetivo:** Aprender tecnologías punteras y mejorar mis habilidades en el desarrollo de interfaces.
+* 💬 **Hablemos de:** Java, Android Studio y cómo la creatividad puede transformar el software.
+* ⚡ **Actitud:** Siempre lista para un nuevo reto y para aprender de los mejores.
+
+---
+
+<div align="center">
+
+## 🛠️ Mi Stack Tecnológico
+
+**Lenguajes y Desarrollo Mobile**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,js,html,css&theme=dark" />
+  </a>
+</p>
+
+**Bases de Datos y Entornos**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,netbeans,git&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 📊 Estadísticas (Pink Mode)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ananuflo&show_icons=true&theme=rosepine&hide_border=true&title_color=eb6f92&icon_color=eb6f92" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananuflo&layout=compact&theme=rosepine&hide_border=true&title_color=eb6f92" />
+</p>
+
+---
+
+## 💗 Conectemos
+<p>
+  <a href="https://www.linkedin.com/in/ana-n%C3%BA%C3%B1ez-flores-1a3256377/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="ananu97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Trkten/Trkten/main/assets/line_purple.gif" width="100%">
+
+</div>
