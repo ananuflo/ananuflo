@@ -42,7 +42,37 @@ Aunque estoy en pleno desarrollo de mi carrera y no me considero una experta, te
 </p>
 
 ---
+## 🌸 Áreas de Interés
 
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="33%">
+      <img src="android-icon.png" width="60px" />
+      <br />
+      <strong>Android Studio</strong>
+      <br />
+      <sub>Creando Apps Nativas</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="java-icon.png" width="60px" />
+      <br />
+      <strong>Lógica en Java</strong>
+      <br />
+      <sub>Estructuras y Algoritmos</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="db-icon.png" width="60px" />
+      <br />
+      <strong>Bases de Datos</strong>
+      <br />
+      <sub>SQL & Firebase</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>"Transformando ideas en código, píxel a píxel"</i> ✨
+</p>
 ---
 
 ## 💗 Conectemos
